@@ -10,3 +10,6 @@ After you must have downloaded the theme, the are slight modifications you might
 
 # So What Next?
 Just Clone or download as ZIP to use.
+
+# I Found a Bug
+Box me a mail: kofacts@gmail.com :)
